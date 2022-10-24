@@ -307,7 +307,7 @@ header .header-logo a {
 }
 
 .gallery div img:hover {
- border-radius: 10px;
+ /* border-radius: 10px; */
  opacity: 100%;
 }
 
